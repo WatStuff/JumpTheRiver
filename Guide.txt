@@ -1,6 +1,6 @@
 Guide
-This program encrypt your files using a password, but also got a phisical configuration.
-The main part of this project is the use of the primelist, which users have previously sort randomly.
+This program encrypt your files using a password, but also got a physical method.
+The main part of this project is the use of the Primefiles, which users have previously sort randomly.
 The program use the sum of the password's characters to jump the same position in every Primefile, then use the product of
   these primes and multuply them by the word's characters in the file.
 It is important to have your own prime secuence, also save the lists out of your computer.
